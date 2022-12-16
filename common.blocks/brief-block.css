@@ -1,0 +1,33 @@
+.brief-block {
+	background: #F1F1F1;
+	border-radius: 10px;
+	padding: 25px 30px 25px 45px;
+}
+
+.brief-block__caption {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 44px;
+	line-height: 120%;
+	margin-bottom: 20px;
+}
+
+.brief-block__list {
+	list-style: none;
+}
+
+.brief-block__list-item:not(:last-child) {
+	margin-bottom: 10px;
+}
+
+.brief-block__list-item:last-child {
+	margin-bottom: 30px;
+}
+
+.brief-block__list,
+.brief-block__text {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 120%;
+}

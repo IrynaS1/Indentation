@@ -1,0 +1,29 @@
+.desc-block {
+	background: #F1F1F1;
+	border-radius: 10px;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-bottom: 50px;
+}
+
+.desc-block__caption {
+	font-style: normal;
+	font-weight: 700;
+	font-size: 44px;
+	line-height: 120%;
+	padding-left: 45px;
+	margin-bottom: 20px;
+}
+
+.desc-block__list {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 120%;
+	color: #02535F;
+	padding-left: 70px;
+}
+
+.desc-block__link:not(:last-child) {
+	margin-bottom: 10px;
+}

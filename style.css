@@ -1,0 +1,17 @@
+@import url("normalize.css");
+
+@import url("global_styles.css");
+
+@import url("./common.blocks/page-wrapper.css");
+
+@import url("./common.blocks/content-wrapper.css");
+
+@import url("./common.blocks/main-title.css");
+
+@import url("./common.blocks/tagline.css");
+
+@import url("./common.blocks/desc-block.css");
+
+@import url("./common.blocks/brief-block.css");
+
+@import url("./common.blocks/content.css");

@@ -1,0 +1,11 @@
+.tagline {
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 120%;
+	margin-bottom: 50px;
+}
+
+.tagline__part:not(:last-child) {
+	margin-bottom: 30px;
+}
